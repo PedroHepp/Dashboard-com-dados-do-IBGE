@@ -24,4 +24,11 @@ Este projeto consiste em utilizar um dataset da base de dados do IBGE, disponív
   <li><strong>Pico em 2020 / 2021:</strong> O número de pessoas que não viajaram atingiu seu pico nesses anos, possivelmente devido à pandemia da COVID-19, que impactou a economia e a mobilidade.</li>
 </ol>
 
+#
+
 <img src="Projeto_IBGE/Dashboard_IBGE.png">
+
+## Sobre a criação do dashboard
+Como minha intenção é transmitir uma única informação à audiência, optei por um único gráfico grande e bem explicado. Antes de criar um dashboard, considero essencial analisar o público-alvo, pois conhecer quem irá utilizá-lo é fundamental para estruturá-lo de forma adequada. <br> <br>
+
+No meu caso, como não tenho certeza sobre quem analisará este dashboard, assumi que será um público mais técnico. Por isso, escolhi o gráfico de faixas, que permite uma visão mais detalhada e segmentada dos dados. No entanto, se o público fosse mais leigo, teria optado por um gráfico de barras, que é mais simples e de fácil interpretação.
